@@ -26,7 +26,9 @@ PlantSense currently supports the classification of the following diseases:
 12. Cabbage Black Rot
 
 ## Additional Resources:
-If you're interested in exploring the source code for the API that powers PlantSense, you can find it here: Plant-Sense-API
+If you're interested in exploring the source code for API that powers PlantSense, you can find it here: Plant-Sense-API
+
 For a hands-on experience, you can try out the deployed version of the app here: https://plant-sense-api.onrender.com/
+
 
 Feel free to explore the code, contribute, or use Plant Sense 1 for your plant disease classification needs. Together, we can help keep plants healthy and thriving!
