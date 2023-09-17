@@ -6,7 +6,9 @@ PlantSense is a Flutter application designed to empower users with the ability t
 
 ## How It Works:
 Image Upload - Users can upload images of plants directly through the app.
+
 API Processing - The app sends the uploaded image to our API, where the plant disease image classification model works its magic.
+
 Disease Classification - The API returns the top 3 probable diseases along with their confidence values. Users can now identify potential plant diseases with ease.
 
 ## Supported Diseases:
